@@ -1,0 +1,5 @@
+POST /knowledgebases/e096fdaa-a7da-46a1-8277-04e1bf3285ac/generateAnswer
+Host: https://azure-chat-bot.azurewebsites.net/qnamaker
+Authorization: EndpointKey a701b3b7-3cdd-472a-a438-c720ea4e86e6
+Content-Type: application/json
+{"question":"<Your question>"}
